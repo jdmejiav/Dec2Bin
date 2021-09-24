@@ -23,4 +23,4 @@ if float!=0:
             salida =salida+"1"
 
 
-print(salida)
+print(salida[::-1])
